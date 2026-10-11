@@ -1,0 +1,10 @@
+
+{
+  "name": "branching-case-nodejs",
+  "version": "1.0.0",
+  "description": "Branching Case exercises using JavaScript and Node.js",
+  "main": "L1_Ex2_Even_or_Odd.js",
+  "scripts": {
+    "start": "node L1_Ex2_Even_or_Odd.js"
+  }
+}
